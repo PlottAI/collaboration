@@ -7,4 +7,4 @@ Love it? Hate it? Tell us! We value all community feedback.
 
 Shape our roadmap: share your ideas, issues, and preferences.
 
-[Open an issue](issues)
+[Open an issue](https://github.com/PlottAI/collaboration/issues/new)
